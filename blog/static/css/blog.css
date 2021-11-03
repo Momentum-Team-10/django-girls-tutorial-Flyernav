@@ -1,0 +1,13 @@
+h1 a, h2 a {
+    color: #591523;
+    font-family: 'Signika', sans-serif;
+}
+
+body {
+    padding-left: 15px;
+    background-color: #01221d;
+}
+
+p, time {
+    color: black;
+}
